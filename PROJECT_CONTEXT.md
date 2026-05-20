@@ -1,5 +1,10 @@
 # Agent Android - 项目开发上下文
 
+## 用户信息
+- **GitHub**: NaHCO3-Firefly
+- **Email**: 1226174871@qq.com
+- **仓库**: `git@github.com:NaHCO3-Firefly/agent-android.git`
+
 ## 来自用户的追加消息
 1. https://opencode.ai/docs/zh-cn/go/ - OpenCode Go 订阅服务，需要在设置中作为提供商预设之一支持
 2. OpenCode Go API 端点: `https://opencode.ai/zen/go/v1/chat/completions` (OpenAI 兼容格式)
